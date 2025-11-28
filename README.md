@@ -34,10 +34,11 @@ I love bridging the gap between development and operations using modern DevOps p
 
 ---
 
-### 📫 Connect with Me
+### 📫 Connect with me
 
-- LinkedIn: *www.linkedin.com/in/ahmad-heggy-1702a5103*  
-- GitHub: **Ahmedheggy**
+<a href="https://www.linkedin.com/in/ahmad-heggy-1702a5103/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 ---
 
