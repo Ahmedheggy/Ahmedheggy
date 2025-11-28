@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Ahmed Heggy 👋
 
-<!--
-**Ahmedheggy/Ahmedheggy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 DevOps Engineer | Linux Enthusiast
 
-Here are some ideas to get you started:
+I'm passionate about building scalable, automated, and cloud-native infrastructures.  
+I love bridging the gap between development and operations using modern DevOps practices and open-source tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 What I Do
+
+- 🐧 Linux Administration (Fedora / Ubuntu)
+- 🐳 Containerization using **Docker**
+- ☸️ Deploying microservices on **Kubernetes**
+- ⚙️ Infrastructure as Code using **Terraform**
+- 🔁 CI/CD Pipelines
+- ☁️ Cloud deployments & automation workflows
+
+---
+
+### 🧩 Current Focus
+
+- Building DevOps pipelines from scratch  
+- Automating cloud environments and infrastructure provisioning   
+- Improving observability, scalability, and performance
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:** Bash, Python  
+**Tools:** Docker, Kubernetes, Helm, Terraform, Git, GitLab CI/CD  
+**Cloud:** AWS  
+
+---
+
+### 📫 Connect with Me
+
+- LinkedIn: *www.linkedin.com/in/ahmad-heggy-1702a5103*  
+- GitHub: **Ahmedheggy**
+
+---
+
+⭐ **Feel free to check out my projects**
